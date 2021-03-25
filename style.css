@@ -1,0 +1,16 @@
+h1 {
+	color: gray;
+	font: italic normal bold normal 2em Helvetica, Arial, sans-serif;
+}
+
+h2 {
+	font: normal bold normal 1.5em Helvetica, Arial, sans-serif;
+}
+
+h3 {
+	font: normal bold normal 1em Helvetica, Arial, sans-serif;
+}
+
+.cohort {
+	font: 0.9em Helvetica, Arial, sans-serif;
+}
